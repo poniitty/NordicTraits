@@ -17,7 +17,7 @@ The dataset consists of six files:
 
 The dataset can be downloaded from [this](https://github.com/poniitty/NordicTraits/blob/main/final_dataset/NordicTraits_V1.zip) folder.
 
-All computer code used to generate the dataset can be accessed at the [scripts](https://github.com/poniitty/NordicTraits/tree/main/scripts) folder.
+All computer code used to generate the dataset can be accessed at the [scripts](https://github.com/poniitty/NordicTraits/tree/main/scripts) folder. The original trait data are not provided here and need to be downloaded from the original sources first to run the scripts. All data sources are provided in the data linked article.
 
 ## How to Cite
 Please cite the dataset using the following citation: **COMING SOON**
