@@ -15,7 +15,7 @@ The dataset consists of six files:
 5. **NordicTraits_evaluation_statistics_V1.xlsx**: Validation statistics for the imputed data.
 6. **NordicTraits_metadata_traits_extended_V1.xlsx**: Metadata for all 205 traits included in the imputation model.
 
-The dataset can be downloaded from the *final_dataset* folder.
+The dataset can be downloaded from the [this](https://github.com/poniitty/NordicTraits/blob/main/final_dataset/NordicTraits_V1.zip) folder.
 
 All computer code used to generate the dataset can be accessed at the *scripts* folder.
 
