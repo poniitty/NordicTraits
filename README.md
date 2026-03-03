@@ -33,4 +33,4 @@ While the dataset is comprehensive and gap-free, users should be aware of the li
 The NordicTraits dataset is planned to be updated at irregular intervals. The most recent version can always be accessed in this GitHub repository.
 
 ## Contact Information
-For questions or feedback regarding the dataset, please open on issue or contact the corresponding author: Pekka Niittynen, poniitty at gmail dot com
+For questions or feedback regarding the dataset, please open on issue or contact the corresponding author.
