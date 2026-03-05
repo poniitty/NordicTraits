@@ -20,11 +20,15 @@ The dataset can be downloaded from [this](https://github.com/poniitty/NordicTrai
 All computer code used to generate the dataset can be accessed at the [scripts](https://github.com/poniitty/NordicTraits/tree/main/scripts) folder. The original trait data are not provided here and need to be downloaded from the original sources first to run the scripts. All data sources are provided in the data linked article.
 
 ## How to Cite
-Please cite the dataset using the following citation: **COMING SOON**
+Please cite the dataset using the following citation: 
+
+Niittynen, P., Heikkinen, R. K., Hällfors, M. H., Määttänen, A.-M., Norros, V., & Kemppinen, J. (2026). NordicTraits: Imputed species-level functional trait dataset for vascular plants of Denmark, Finland, Iceland, Norway and Sweden. PREPRINT. *bioRxiv*. https://doi.org/10.64898/2026.03.03.709463
 
 ## Additional Information
 ### Dataset Coverage
 The dataset covers a wide range of plant functional traits, including plant height, seed mass, leaf nitrogen content, and many others. These traits are crucial for understanding plant strategies, ecosystem processes, and predicting biodiversity responses to environmental change.
+
+A detailed desciption of the dataset can be found in [this preprint](https://doi.org/10.64898/2026.03.03.709463)
 
 ### Data Quality and Limitations
 While the dataset is comprehensive and gap-free, users should be aware of the limitations of imputed data. The reliability of imputed values depends on the amount and pattern of missing values in the original data. Users are advised to exercise caution when using imputed values for less-studied taxa or specific traits.
